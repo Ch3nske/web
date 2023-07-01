@@ -1,0 +1,41 @@
+/*Адаптирование под мобильные устройства*/
+/*Появится в будущем*/
+@media only screen and (max-width:1600px){
+    .banner{
+        height: auto;
+        display: block;
+    }
+    .lessons{
+        width: 100%;
+    }
+    .shop_news{
+        width: 100%;
+        height: 450px;
+    }
+}
+@media only screen and (max-width:1200px){
+    .shop_news{
+        display:none;
+    }
+    .lessons{
+        width: 100%;
+    }
+    .title_area{
+        font-size: 18px;
+    }
+}
+
+@media only screen and (max-width:760px){
+    .les_pic {
+        display: none;
+    }
+    .j_u_buttons{
+        display: block;
+    }
+    .multi_img{
+        width: 400px;
+    }
+    .intro, video_media{
+        height: 400px;
+    }
+}

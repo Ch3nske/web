@@ -1,0 +1,26 @@
+{
+    "1": {
+        "id": "1"
+        , "name": "\u041f\u043e\u0434\u0448\u0438\u043f\u043d\u0438\u043a\u0438 Bones"
+        , "cost": "4500"
+        , "description": "\u041f\u043e\u0434\u0448\u0438\u043f\u043d\u0438\u043a\u0438 Bones"
+        , "ord": "8"
+        , "image": "src/shop-image/podship.png"
+    }
+    , "2": {
+        "id": "2"
+        , "name": "\u0414\u0435\u043a\u0430"
+        , "cost": "2500"
+        , "description": "\u0414\u0435\u043a\u0430"
+        , "ord": "1"
+        , "image": "src/shop-image/deka.png"
+    }
+    , "3": {
+        "id": "3"
+        , "name": "\u041f\u043e\u0434\u0432\u0435\u0441\u043a\u0438"
+        , "cost": "16000"
+        , "description": "\u041f\u043e\u0434\u0432\u0435\u0441\u043a\u0438"
+        , "ord": "3"
+        , "image": "src/shop-image/podveski.png"
+    }
+}

@@ -1,0 +1,20 @@
+{
+  "11292" : {
+    "name" : "Дека Plan B",
+    "cost" : 2300,
+    "description" : "Размер 8.5 дюйма",
+    "image" : "src/shop-image/deka.png"
+  },
+  "11294" : {
+    "name" : "Подшипники Bones",
+    "cost" : 15000,
+    "description" : "Керамические подшипники Abec 7",
+    "image" : "src/shop-image/podship.png"
+  },
+  "11295" : {
+    "name" : "Подвески Independent",
+    "cost" : 8700,
+    "description" : "Размер 159",
+    "image" : "src/shop-image/podveski.png"
+  }
+}
